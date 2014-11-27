@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	color:#DF090D;
+}
+
+#foto
+{
+	color:#63DEAA;
+}
+
+#logotipo{
+	width:5%;
+	height:20%;
+	left:5%;
+	top:5%;
+}
+
+ #imagen{
+	margin-left:45%;
+	position: absolute;
+	z-index: 1;
+}
